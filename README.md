@@ -25,4 +25,4 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-![Rodrigo Arias's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-arias&count_private=true&show_icons=true&theme=graywhite)
+![Rodrigo Arias's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-arias&count_private=true&show_icons=true&theme=graywhite&hide=stars)
